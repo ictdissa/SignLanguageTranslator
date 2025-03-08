@@ -29,6 +29,7 @@ Pyperclip	Copies recognized gestures to clipboard.
 │── README.md               # Project overview & instructions
 │── .gitignore              # Ignore unnecessary files (optional)
 
+
 # 🛠️ Setup & Installation
 To run this project on your local machine, follow these steps:
 
