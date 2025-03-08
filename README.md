@@ -37,6 +37,7 @@ To run this project on your local machine, follow these steps:
 1️⃣ Install Dependencies
 
 Run the following command to install all required packages:
+
 **pip install -r requirements.txt**
 
 2️⃣ Collect Gesture Data
