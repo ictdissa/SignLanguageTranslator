@@ -18,18 +18,6 @@ TensorFlow/Keras	Trains an LSTM model for gesture classification.
 NumPy	Handles numerical data processing.
 Pyperclip	Copies recognized gestures to clipboard.
 
-# 📂 Repository Structure
-📁 GestureRecognitionProject/
-│── 📁 data/                # (Optional) Pre-collected datasets
-│── 📁 models/              # (Optional) Trained models
-│── CollectDataset.py       # Script for dataset collection
-│── TrainData.py            # Script for model training
-│── GestureRecognition.py   # Real-time gesture recognition
-│── requirements.txt        # Dependencies for the project
-│── README.md               # Project overview & instructions
-│── .gitignore              # Ignore unnecessary files (optional)
-
-
 # 🛠️ Setup & Installation
 To run this project on your local machine, follow these steps:
 
