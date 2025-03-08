@@ -62,7 +62,7 @@ After training, run the real-time gesture recognition:
 
 📌 This script detects gestures live, classifies them, and displays predictions on the screen.
 
-🔬 How Gesture Recognition Works
+# 🔬 How Gesture Recognition Works
 
 This project follows a 3-step process:
 
