@@ -38,20 +38,20 @@ To run this project on your local machine, follow these steps:
 
 Run the following command to install all required packages:
 
-**pip install -r requirements.txt**
+'pip install -r requirements.txt'
 
 2️⃣ Collect Gesture Data
 
 To create a dataset of gestures, run the dataset collection script:
 
-**python CollectDataset.py**
+'python CollectDataset.py'
 
 📌 This script will capture hand movements and save them as numerical keypoints.
 
 3️⃣ Train the LSTM Model
 Once the dataset is collected, train the gesture recognition model:
 
-**python TrainData.py**
+'python TrainData.py'
 
 📌 This script will train an LSTM deep learning model using collected keypoints.
 
@@ -59,7 +59,7 @@ Once the dataset is collected, train the gesture recognition model:
 
 After training, run the real-time gesture recognition:
 
-**python GestureRecognition.py**
+'python GestureRecognition.py'
 
 📌 This script detects gestures live, classifies them, and displays predictions on the screen.
 
